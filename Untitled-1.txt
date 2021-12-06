@@ -1,0 +1,111 @@
+0aaed14d5e25d556: \upsilon
+0bce26208ea7cbd0: 7
+0d98642a8b49ee2a & 0e94a6e2b81ba829 & 4da72a78d2be83d9: C
+1a8ce1e92e2238ef: cos(\theta)
+01e808a21cb3069e: cot(\theta)
+2c6c8d8aab0c8821: 1
+2dabe1464cd65d38: Horizontal distance
+2fead749762b12dd: \chi
+3a3781bbbc79d210: \iota
+3ab6ca3c2ebf106b: x
+3d052336c1e3bf0f: 2
+3db659d89a2b5ac0: \Lambda
+4ca566dcd662ff75: \Phi
+4d2eed78577829e3: \lambda
+5aa3d7a1e653edb6: \centering C
+5ae072d0e0fd537e: -
+05c2d088a6007a76: sin(\theta)
+5e23448e65caed18:\Theta
+6ac48c7001af69cb: \centering \alpha
+6b7c2ee957f615d9:\centering $\Alpha$
+6e3e1fdca7d9e9ef: $\Alpha$
+7dddc8492fd7e0e4: As per Pythagoras Theorem
+8a81fb1daf850275:\rho
+8a8168136e949aae: \mu
+8ccb43b7e3e9bda2: cos(x)h
+9a82e2344b644f9b: \Sigma
+9d93be99cca178bb:\pi
+9d277277e0f613cd:\alpha
+9f0f84404939845e:\alpha\beta\gamma
+32fbad530408701b:\centering C
+35e359a39ddcdbf1: sec(\theta)
+0036e77296ef6c04: cos(x)
+
+
+{align*}
+9f555629e552b431 : 1
+9fce6c814ea1c51b & 67c9e7e52f9c7a4d: \gamma
+60fbbdd1b3f7392b:\quad
+67ff7b596bfceeaf: \beta
+69af5d0695d40049: \alpha+\beta+\gamma
+76d69fac9aaf10f5: cos(x) = sin(90-x)
+0079e539c2bb727b: 4
+81ec0dc01d7a74be: 0
+83b2ebe3827a2bba: \Gamma
+92e26439c5bf26b7: \xi
+322f8f53fb1bf7a7: \alpha
+358a25671ab074f2: \eta
+365d2c7b44dd779f: x-x_1
+375ad764d451be18: 90-x
+903e9727a2b6ea90: \Psi
+00907a629c7cf368: cosec(\theta)
+957bc2d10c45e9f8: 5
+978f007f42c72acb: 4
+2743c9e7a4c4eced: \Omega
+5249cb399941b88c: \Pi
+7742fec366fa2816: \Xi
+9965b3259e740cd6: 60
+32648c6958823b1a & 56d3dc830a188b52: 3
+58063a82b14522c4: A
+60422f78c5a9c34a: \tau
+60907af1bdc1b51d: \kappa
+97523f76d48b319d: -
+646111d88cbf023d: \quad
+5647071cd47040ff: \omega
+21497566d8f3c766: \epsilon
+33904419f93ed41a: cos(90-x)h
+98400212e1c71d00: \theta
+a89e9a38baf32297: \Delta
+a84681736025b750: BC^2 + AB^2 = AC^2
+ac2fbe65a0165505: \zeta
+acfe804f22b3da5a: ${\Alpha}$
+b1e2fdecb9eb59dc: \epsilon\varepsilon
+b88e28e9b514938a:sin(90-x)h
+b108ddb29f81ad89:A
+b329c0c03ff497c5: sin(x)
+b89298cd1f1b8759: sin(x)h
+be2011bd7d40b30b: 6
+be444811435cd8f2:sin(x) = cos(90-x)
+c1afe84e5a2ba96e: 9
+c2a7e295cf7ba1eb: 7
+c16e788862907bfa: 2
+c828c8444f1be421: \psi
+c1900441c99c1cf8: \theta
+cc905b3ea9d5bd2b: AB = cos(x), BC = sin(x), AC = 1
+d3aac5f2ddf16fa1: 30
+d4f1da908b9dc181: cos(\theta)
+d5ae4f67c812a4b2: 6
+d7e53dca2364f222: \therefore sin(x)^2 + cos(x)^2 = 1
+db0acf26ab1f46c1: B
+dcbf9038ae6d91af: \nu
+de3e6f157da9136a: \phi
+e8dfa568e5f12a1f: tan(\theta)
+e580f4cf99037bcd: 1
+eb637941e419d4d2: \underbrace{\qquad\qquad\qquad\qquad\qquad\qquad}
+ed15161cc5aecbee: \beta
+f1a8883f921d284e: \alpha
+f9c3e17806f327af: 5
+f38ae0c6cd744e23: \sigma
+f9323304aa3fbc10: \delta
+fd3d76190b9c28da: h
+ff77e1049925ac71: 8
+{align*}
+
+
+394d6ba90ea3518f: A
+912fa4502a0fa002 & b0215497558516b1: \centering B
+995ae9e4cea87279: \centering $y$
+aa1cd2c9593f834a: \centering $x$
+ab27bc75484a3ed4 & eb85f899c3cb1be6: \centering A
+bc0167c81e05a3c8: \centering As per Pythagoras Theorem
+cb7e7949b4d4eb87: B
