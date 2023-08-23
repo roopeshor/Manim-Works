@@ -1,0 +1,5 @@
+.vscode
+**/__pycache__
+**/media
+cache/tex/*.log
+cache/tex/*.aux
