@@ -3,3 +3,4 @@
 **/media
 cache/tex/*.log
 cache/tex/*.aux
+**/*.lnk
